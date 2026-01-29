@@ -141,28 +141,29 @@ Documentation available in:
 
 ---
 
-## 🗂️ Project Folder Structure
+## 📁 Project Folder Structure
 
 aws-finops-fault-tolerant-architecture/
-├── architecture/
-│   └── final-architecture.png
-│
-├── screenshots/
-│   ├── day11-dashboard.png
-│   ├── day12-failure-recovery.png
-│   ├── day14-auto-scaling.png
-│   └── day15-operations-dashboard.png
-│
-├── lambda/
-│   ├── detect-idle-ec2.py
-│   └── idle-actioner.py
-│
-├── docs/
-│   ├── rto-rpo.md
-│   ├── finops.md
-│   └── cost-breakdown.md
-│
-└── README.md
+|
+|-- architecture/
+| |-- final-architecture.png
+|
+|-- screenshots/
+| |-- day11-dashboard.png
+| |-- day12-failure-recovery.png
+| |-- day14-auto-scaling.png
+| |-- day15-operations-dashboard.png
+|
+|-- lambda/
+| |-- detect-idle-ec2.py
+| |-- idle-actioner.py
+|
+|-- docs/
+| |-- rto-rpo.md
+| |-- finops.md
+| |-- cost-breakdown.md
+|
+|-- README.md
 
 
 ---
