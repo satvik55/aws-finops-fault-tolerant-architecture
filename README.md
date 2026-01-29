@@ -145,19 +145,23 @@ Documentation available in:
 
 aws-finops-fault-tolerant-architecture/
 ├── architecture/
-│ └── final-architecture.png
+│   └── final-architecture.png
+│
 ├── screenshots/
-│ ├── day11-dashboard.png
-│ ├── day12-failure-recovery.png
-│ ├── day14-auto-scaling.png
-│ └── day15-operations-dashboard.png
+│   ├── day11-dashboard.png
+│   ├── day12-failure-recovery.png
+│   ├── day14-auto-scaling.png
+│   └── day15-operations-dashboard.png
+│
 ├── lambda/
-│ ├── detect-idle-ec2.py
-│ └── idle-actioner.py
+│   ├── detect-idle-ec2.py
+│   └── idle-actioner.py
+│
 ├── docs/
-│ ├── rto-rpo.md
-│ ├── finops.md
-│ └── cost-breakdown.md
+│   ├── rto-rpo.md
+│   ├── finops.md
+│   └── cost-breakdown.md
+│
 └── README.md
 
 
